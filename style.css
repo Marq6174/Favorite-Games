@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#title {
+  color: rgb(65, 105, 193);
+}
+
+body {
+  background-image: url(Background/luxa.org-opacity-changed-fantasy-house-moon-illustration.jpg);
+  text-align: center;
+}
+
+.game-title {
+  font-family: cursive;
+  font-size: larger;
+  color: rgb(175, 90, 220);
+}
+
+.game-img {
+  height: 400px;
+  width: 400;
+  border: solid 2px;
+  border-radius: 10px;
+}
+
+.game-description {
+  color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding: 200px;
+  border-color: black;
+}
